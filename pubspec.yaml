@@ -38,6 +38,8 @@ dependencies:
   firebase_core: any
   sqflite: any
   path: ^1.9.0
+  cloud_firestore: ^5.4.4
+  get: ^4.6.6
 
 
 
