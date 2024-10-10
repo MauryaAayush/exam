@@ -11,7 +11,7 @@ This is a Flutter-based shopping app that allows users to create, read, update, 
 * Delete: Remove products from the list.
 * Responsive UI: Works well on both Android and iOS devices.
 * Persistent Storage: Data is stored locally, even after closing the app
-* 
+  
 ### 
 <h3 align="center"><i>Images</i></h3>
 
