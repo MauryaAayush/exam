@@ -28,6 +28,30 @@ This is a Flutter-based shopping app that allows users to create, read, update, 
 </div>
 
 ### 
+<h3 align="center"><i>Images of Local Storage</i></h3>
+
+###
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/7984b561-01b2-47c6-9fc7-487c1c14497d">
+
+
+</div>
+
+### 
+<h3 align="center"><i>Images of Firestore</i></h3>
+
+###
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/5edddae2-46f1-4e2a-9f38-6d25efa322f5" height=500px hspace=20>
+
+
+</div>
+
+### 
 <h3 align="center"><i>Video</i></h3>
 
 https://drive.google.com/file/d/16n25Q3ALHrIfdIBff8GBp1gbc4giJV7_/view?usp=drive_link
